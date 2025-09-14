@@ -26,3 +26,14 @@ The objective of this project is to design and develop an interactive Power BI d
 
 ## Dashboard
 <img width="1485" height="846" alt="Screenshot 2025-09-14 033259" src="https://github.com/user-attachments/assets/a9540a5c-d41a-4dc5-bb6c-516a337b4fc4" />
+
+## Project Insight
+- Tier 3 cities generated the highest sales, showing strong performance in smaller markets.
+- Regular fat products outsell low-fat options, indicating customer preference.
+- Large outlets contribute most to total revenue.
+- Top-selling categories: Fruits & Vegetables, Snacks, and Household Items.
+- Customer ratings are consistent across all outlet types (~3.9 average).
+- Supermarket Type 1 is the best-performing outlet type.
+
+  # Final Conclusion:
+  This Power BI dashboard provides clear insights into Blinkit's sales performance. It highlights which outlet types and item categories drive revenue, while uncovering opportunities in underperforming locations. The dashboard enables better, data-driven decisions for improving sales, customer satisfaction, and operational efficiency.

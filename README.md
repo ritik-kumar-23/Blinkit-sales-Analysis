@@ -5,3 +5,9 @@ The objective of this project is to design and develop an interactive Power BI d
 
 ## Dataset used
 - <a href="https://github.com/ritik-kumar-23/Blinkit-sales-Analysis/blob/dea2ae9347fe1573da48c7248b675bcf9b34e0e7/BlinkIT%20Grocery%20Data.xlsx">Dataset</a>
+
+## Questions (KPIs)
+- Total sales: The overall revenue generated from all items sold.
+- Average sales: The average revenue per sale.
+- Number of items: The total count of different items sold.
+- Average rating: The average customer rating for items sold

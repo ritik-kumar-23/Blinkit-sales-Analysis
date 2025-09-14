@@ -11,3 +11,15 @@ The objective of this project is to design and develop an interactive Power BI d
 - Average sales: The average revenue per sale.
 - Number of items: The total count of different items sold.
 - Average rating: The average customer rating for items sold
+
+- Dashboard Interaction <a href="https://github.com/ritik-kumar-23/Blinkit-sales-Analysis/blob/main/Screenshot%202025-09-14%20033259.png">View Dashboard</a>
+
+## Process
+- Requirement Gathering
+- Data collection
+- Data cleaning & transformation
+- Data modeling
+- Visualization design
+- Testing & validation
+- Deployment & sharing
+- User Feedback & interation

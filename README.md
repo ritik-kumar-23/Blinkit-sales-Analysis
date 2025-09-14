@@ -23,3 +23,6 @@ The objective of this project is to design and develop an interactive Power BI d
 - Testing & validation
 - Deployment & sharing
 - User Feedback & interation
+
+## Dashboard
+<img width="1485" height="846" alt="Screenshot 2025-09-14 033259" src="https://github.com/user-attachments/assets/a9540a5c-d41a-4dc5-bb6c-516a337b4fc4" />
